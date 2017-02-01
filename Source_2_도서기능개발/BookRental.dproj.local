@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.294,=C:\Users\hjfac_000\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.158,=C:\Users\hjfac_000\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.885,=C:\Users\hjfac_000\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.455,=C:\Users\hjfac_000\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.997,D:\Projects\BookRental\Source\MainForm.dfm=C:\Users\hjfac_000\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.689,=C:\Users\hjfac_000\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.211,D:\Projects\BookRental\Source\BookRental.dproj=C:\Users\hjfac_000\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.997,D:\Projects\BookRental\Source\MainForm.pas=C:\Users\hjfac_000\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.880,=C:\Users\hjfac_000\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.721,=C:\Users\hjfac_000\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017.01.30 12:21:45.804,=D:\Projects\BookRental\Source\Unit1.pas</Transaction>
+    <Transaction>2017.01.30 12:22:09.491,D:\Projects\BookRental\Source\DataAccessModule.pas=D:\Projects\BookRental\Source\Unit1.pas</Transaction>
+    <Transaction>2017.01.30 12:22:09.491,D:\Projects\BookRental\Source\DataAccessModule.dfm=D:\Projects\BookRental\Source\Unit1.dfm</Transaction>
+    <Transaction>2017.01.30 12:29:36.773,=D:\Projects\BookRental\Source\Unit1.pas</Transaction>
+    <Transaction>2017.01.30 12:30:03.377,D:\Projects\BookRental\Source\BookForm.pas=D:\Projects\BookRental\Source\Unit1.pas</Transaction>
+    <Transaction>2017.01.30 12:30:03.377,D:\Projects\BookRental\Source\BookForm.dfm=D:\Projects\BookRental\Source\Unit1.dfm</Transaction>
+    <Transaction>2017.01.30 13:29:23.153,=D:\Projects\BookRental\Source\CommonFunctions.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<P192.168.229.1 iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
